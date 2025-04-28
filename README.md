@@ -1,5 +1,5 @@
-## Name: K.Preetha
-## Register Number: 212224100044
+## Name: j praisy nishitha
+## Register Number: 212224100042
 # EX-06 - Looping
 ## AIM:
 Write a C program to print even numbers ranging from M to N (including M and N values).
